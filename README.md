@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Gabriel Vinhas </h1> 
 
-📘 Web Development student at @rocketseat <br>
+📘 I'm currently studying Web Development <br>
 
 <h2>👨‍💻 Skills </h2>
 
