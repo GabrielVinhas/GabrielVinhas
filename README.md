@@ -1,6 +1,6 @@
-<h1> 👋 Hi, I’m Gabriel Vinhas </h1> 
+<h1> 👋 Olá, eu sou o Gabriel Vinhas </h1> 
 
-📘 I'm currently studying Web Development <br>
+📘 Sou desenvolvedor front-end e aqui você pode acompanhar meus projetos <br>
 
 <h2>👨‍💻 Skills </h2>
 
