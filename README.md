@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Vinhas 
 
-<div style="display: flex">
+<div>
   <a href="https://github.com/gabrielvinhas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielvinhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvinhas&layout=compact&langs_count=7&theme=tokyonight"/>
