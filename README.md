@@ -12,7 +12,7 @@ Olá! Eu sou o Gabriel Vinhas 👋🏻
 *   ✉️  Você pode entar em contato via e-mail: [gabrielvinhas784@hotmail.com](mailto:gabrielvinhas784@hotmail.com)
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,dotnet,angular,react,sass,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,cs,dotnet,git,figma)](https://skillicons.dev)
           
 ### Contato
                   
