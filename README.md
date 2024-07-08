@@ -7,7 +7,7 @@ Olá! Eu sou o Gabriel Vinhas 👋🏻
 
 
 
-*   💻  Desenvolvedor Full Stack
+*   💻  Desenvolvedor Front end
 *   📌  Rio de Janeiro, Brasil
 *   ✉️  Você pode entar em contato via e-mail: [gabrielvinhas784@hotmail.com](mailto:gabrielvinhas784@hotmail.com)
 
