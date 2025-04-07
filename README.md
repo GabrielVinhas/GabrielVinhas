@@ -1,4 +1,4 @@
-Olá! Eu sou o Gabriel Vinhas 👋🏻
+What's up? I'm Gabriel Vinhas 👋🏻
 ====================================================================================================================================
 
 ### Sobre mim
@@ -7,9 +7,9 @@ Olá! Eu sou o Gabriel Vinhas 👋🏻
 
 
 
-*   💻  Desenvolvedor Front end
+*   💻  Full-Stack Developer
 *   📌  Rio de Janeiro, Brasil
-*   ✉️  Você pode entar em contato via e-mail: [gabrielvinhas784@hotmail.com](mailto:gabrielvinhas784@hotmail.com)
+*   ✉️  E-mail: [gabrielvinhas784@hotmail.com](mailto:gabrielvinhas784@hotmail.com)
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,cs,dotnet,git,figma)](https://skillicons.dev)
